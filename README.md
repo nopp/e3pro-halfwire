@@ -3,9 +3,9 @@
 Motherboard: MKS E3D Robin 1.1 (TCM2209) + Mainsail OS (https://docs.mainsail.xyz/)
 Extruder: Creality Sprite Pro
 Motors:
-  X: Stock
-  Y: Stock
-  Z: Stock
+     X: Stock
+     Y: Stock
+     Z: Stock
 LCD: Fysetc Mini12864 v1.2
 LCD Mount: 
      STL/lcd/mount_mini12864.stl
