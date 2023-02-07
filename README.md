@@ -26,7 +26,20 @@ Decks: Enderwire + own rear left deck
 Spool Holder: Enderwire
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/spool_holder.stl
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/spool_holder_base.stl
+Grils: Enderwire
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/%5Ba%5D_grill_endcap_x4.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_front_left.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_front_middle.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_front_right.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_rear_left.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_rear_middle.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_rear_right.stl
+Others: Enderwire
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/cover_4040_extrusion_cut.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/frame_extension_x2.stl
 ```
+
+All parts printed in eSUN PETG
 
 Thanks for boubounokefalos
 https://github.com/boubounokefalos/Ender_SW
