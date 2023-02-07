@@ -60,6 +60,7 @@ Others:
 ![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/front_panel.jpg?raw=true)
 ![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/rear.jpg?raw=true)
 ![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/rear_left_deck.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/left.jpg?raw=true)
 
 All parts printed in eSUN PETG
 
