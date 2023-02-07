@@ -10,6 +10,7 @@ LCD Mount: Enderwire
 Bed: Stock
 Bed carriage: Enderwire
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/y_axis_bed_carriage.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/%5Ba%5D_y_belt_clip_x2.stl
 Bed rails: 2x MGN12H 300mm
 Y motor mount: Enderwire
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/y_motor_mount_a.stl
