@@ -22,7 +22,9 @@ Decks: Enderwire + own rear left deck
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Decks/front_right.stl
      https://github.com/nopp/e3pro-halfwire/blob/main/stl/rear_left.stl
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Decks/rear_right.stl
-
+Spool Holder: Enderwire
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/spool_holder.stl
+     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/spool_holder_base.stl
 ```
 
 Thanks for boubounokefalos
