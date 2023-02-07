@@ -19,6 +19,9 @@ Bed rails: 2x MGN12H 300mm
 Y motor mount: 
      STL/y-motor-mount/y_motor_mount_a.stl
      STL/y-motor-mount/y_motor_mount_b.stl
+Y Idler:
+     STL/y-idler/y_idler_inner.stl
+     STL/y-idler/y_idler_outter.stl
 Feet Extension: 
      STL/foot/foot_extention_x4.stl
      STL/foot/foot_tpu_x4.stl
