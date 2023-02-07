@@ -2,43 +2,61 @@
 ```
 Motherboard: MKS E3D Robin 1.1 (TCM2209) + Mainsail OS (https://docs.mainsail.xyz/)
 Extruder: Creality Sprite Pro
+Motors:
+  X: Stock
+  Y: Stock
+  Z: Stock
 LCD: Fysetc Mini12864 v1.2
-LCD Mount: Enderwire
-    https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Electronics/LCD/Mini12864/mount_mini12864.stl
-    https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Electronics/LCD/Mini12864/lcd_case_front_mini12864.stl
-    https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Electronics/LCD/Mini12864/lcd_case_rear_mini12864.stl
+LCD Mount: 
+     STL/lcd/mount_mini12864.stl
+     STL/lcd/lcd_case_front_mini12864.stl
+     STL/lcd/lcd_case_rear_mini12864.stl
 Bed: Stock
-Bed carriage: Enderwire
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/y_axis_bed_carriage.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/%5Ba%5D_y_belt_clip_x2.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/%5Ba%5D_y_axis_ls_mount.stl (for the y endstop)
+Bed carriage: 
+     STL/bed/y_axis_bed_carriage.stl
+     STL/bed/y_belt_clip_x2.stl
 Bed rails: 2x MGN12H 300mm
-Y motor mount: Enderwire
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/y_motor_mount_a.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Gantry/Y_Axis/y_motor_mount_b.stl
-Feet Extension: Enderwire
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/foot_extention_x4.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/foot_tpu_x4.stl
-Decks: Enderwire + own rear left deck
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Decks/front_left.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Decks/front_right.stl
-     https://github.com/nopp/e3pro-halfwire/blob/main/stl/rear_left.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Decks/rear_right.stl
-Spool Holder: Enderwire
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/spool_holder.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/spool_holder_base.stl
-Grils: Enderwire
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/%5Ba%5D_grill_endcap_x4.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_front_left.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_front_middle.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_front_right.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_rear_left.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_rear_middle.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/Grills/grill_rear_right.stl
-Others: Enderwire
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/cover_4040_extrusion_cut.stl
-     https://github.com/boubounokefalos/Ender_SW/blob/main/STL/frame_extension_x2.stl
+Y motor mount: 
+     STL/y-motor-mount/y_motor_mount_a.stl
+     STL/y-motor-mount/y_motor_mount_b.stl
+Feet Extension: 
+     STL/foot/foot_extention_x4.stl
+     STL/foot/foot_tpu_x4.stl
+Decks:
+     STL/decks/front_left.stl
+     STL/decks/front_right.stl
+     STL/decks/rear_left.stl
+     STL/decks/rear_right.stl
+Spool Holder: 
+     STL/spool-holder/spool_holder.stl
+     STL/spool-holder/spool_holder_base.stl
+Grils:
+     STL/grills/grill_endcap_x4.stl
+     STL/grills/grill_front_left.stl
+     STL/grills/grill_front_middle.stl
+     STL/grills/grill_front_right.stl
+     STL/grills/grill_rear_left.stl
+     STL/grills/grill_rear_middle.stl
+     STL/grills/grill_rear_right.stl
+Raspberry PI Mount:
+     STL/rpi/rpi3_4_mount.stl
+     STL/rpi/rpi_shelf.stl
+Mks E3D Robin Mount:
+     STL/mks/mks-e3d-robin-mount.stl
+Power Supply Mount:
+     STL/psu/PS_4040_mount_a.stl
+     STL/psu/PS_4040_mount_b.stl
+     STL/psu/PS_4040_slide_mount_x2.stl
+Others: 
+     STL/others/cover_4040_extrusion_cut.stl
+     STL/others/frame_extension_x2.stl
 ```
+## Some images
+
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/front.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/front_panel.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/rear.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/rear_left_deck.jpg?raw=true)
 
 ## Some images
 
