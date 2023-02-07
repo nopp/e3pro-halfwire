@@ -1,0 +1,7 @@
+Cura Machine Settings
+
+START G-CODE
+   PRINT_START BED_TEMP={material_bed_temperature_layer_0} EXTRUDER_TEMP={material_print_temperature_layer_0}
+
+END G-CODE
+   PRINT_END
