@@ -39,6 +39,13 @@ Others: Enderwire
      https://github.com/boubounokefalos/Ender_SW/blob/main/STL/frame_extension_x2.stl
 ```
 
+## Some images
+
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/front.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/front_panel.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/rear.jpg?raw=true)
+![Image Alt](https://github.com/nopp/e3pro-halfwire/blob/main/imgs/rear_left_deck.jpg?raw=true)
+
 All parts printed in eSUN PETG
 
 Thanks for boubounokefalos
