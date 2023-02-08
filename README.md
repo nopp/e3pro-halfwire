@@ -1,4 +1,7 @@
 # Creality Ender 3 Pro Halfwire :)
+
+### Usable print area: X 220, Y 190, Z 220
+
 ```
 Motherboard: MKS E3D Robin 1.1 (TCM2209) + Mainsail OS (https://docs.mainsail.xyz/)
 Extruder: Creality Sprite Pro
