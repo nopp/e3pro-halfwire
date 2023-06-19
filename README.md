@@ -2,6 +2,9 @@
 
 ### Halfwire = Half parts of Voron Switchwire :D
 
+### v0.1 (Ender 3 Pro + Sprite Pro)
+### v0.2 (Ender 3 Pro + Voron Stealthburner) Soon :)
+
 ### Usable print area: X 220, Y 190, Z 220
 
 ```
