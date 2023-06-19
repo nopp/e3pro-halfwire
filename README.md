@@ -1,5 +1,7 @@
 # Creality Ender 3 Pro Halfwire :)
 
+### Halfwire = Half parts of Voron Switchwire :D
+
 ### Usable print area: X 220, Y 190, Z 220
 
 ```
